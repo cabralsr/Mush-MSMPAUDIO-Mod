@@ -1,0 +1,39 @@
+{
+  "block.msmpmod.mush_mushroom": "Mush",
+
+  "_comment": "Blocos",
+
+  "block.msmpaudio.vhs_player": "Tocador de Fita VHS",
+
+  "_comment": "VHS's",
+
+  "item.msmpaudio.vhs_music_1" : "Creep - Radiohead",
+
+  "item.msmpaudio.vhs_radio_1" : "Radio - 1",
+
+  "item.msmpaudio.vhs_helena_e_henrique_1" : "Helena & Henrique - 1",
+
+  "item.msmpaudio.vhs_laura_menezes_1" : "Laura Menezes - 1",
+
+  "item.msmpaudio.vhs_laura_menezes_2" : "Laura Menezes - 2",
+
+  "item.msmpaudio.vhs_laura_menezes_3" : "Laura Menezes - 3",
+
+  "item.msmpaudio.vhs_laura_menezes_4" : "Laura Menezes - 4",
+
+  "item.msmpaudio.vhs_laura_menezes_5" : "Laura Menezes - 5",
+
+  "item.msmpaudio.vhs_laura_menezes_6" : "Laura Menezes - 6",
+
+  "item.msmpaudio.vhs_laura_menezes_7" : "Laura Menezes - 7",
+
+  "item.msmpaudio.vhs_laura_menezes_8" : "Laura Menezes - 8",
+
+  "item.msmpaudio.vhs_ziggy_1" : "Ziggy - 1",
+
+  "item.msmpaudio.vhs_teddybear_1" : "Teddy Bear - 1",
+
+  "_comment": "Titulos Abas",
+
+  "creativetab.msmp_tab_vhs": "MSMP VHS"
+}

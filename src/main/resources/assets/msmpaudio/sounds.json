@@ -1,0 +1,93 @@
+{
+  "music_vhs_creep": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.vhs_creep_radiohead",
+    "sounds": [
+      "msmpaudio:music/vhs_creep_radiohead"
+    ]
+  },
+  "lore_laura_menezes_1": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_laura_menezes_1",
+    "sounds": [
+      "msmpaudio:lore/laura_menezes_1"
+    ]
+  },
+  "lore_laura_menezes_2": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_laura_menezes_2",
+    "sounds": [
+      "msmpaudio:lore/laura_menezes_2"
+    ]
+  },
+  "lore_laura_menezes_3": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_laura_menezes_3",
+    "sounds": [
+      "msmpaudio:lore/laura_menezes_3"
+    ]
+  },
+  "lore_laura_menezes_4": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_laura_menezes_4",
+    "sounds": [
+      "msmpaudio:lore/laura_menezes_4"
+    ]
+  },
+  "lore_laura_menezes_5": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_laura_menezes_5",
+    "sounds": [
+      "msmpaudio:lore/laura_menezes_5"
+    ]
+  },
+  "lore_laura_menezes_6": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_laura_menezes_6",
+    "sounds": [
+      "msmpaudio:lore/laura_menezes_6"
+    ]
+  },
+  "lore_laura_menezes_7": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_laura_menezes_7",
+    "sounds": [
+      "msmpaudio:lore/laura_menezes_7"
+    ]
+  },
+  "lore_laura_menezes_8": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_laura_menezes_8",
+    "sounds": [
+      "msmpaudio:lore/laura_menezes_8"
+    ]
+  },
+  "radio_vhs_loop": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_laura_menezes_8",
+    "sounds": [
+      "msmpaudio:radio/radio_loop_1"
+    ]
+  },
+  "lore_ziggy_1": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_ziggy_1",
+    "sounds": [
+      "msmpaudio:lore/ziggy_1"
+    ]
+  },
+  "lore_teddybear_1": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_teddybear_1",
+    "sounds": [
+      "msmpaudio:lore/teddybear_1"
+    ]
+  },
+  "lore_helena_e_henrique_1": {
+    "category": "record",
+    "subtitle": "subtitles.msmpaudio.lore_helena_e_henrique_11",
+    "sounds": [
+      "msmpaudio:lore/helena_e_henrique_1"
+    ]
+  }
+}

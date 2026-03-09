@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "msmpaudio:block/vhs_player" }
+  }
+}
